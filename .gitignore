@@ -1,2 +1,3 @@
 /.idea/
-/group15_GitPractice.iml
+/*.iml
+/target/
